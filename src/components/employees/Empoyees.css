@@ -1,0 +1,13 @@
+ul {
+  list-style: none;
+}
+.block-users {
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.block-users__item {
+  width: 200px;
+  padding: 5px 0;
+  margin-right: 10px;
+}
